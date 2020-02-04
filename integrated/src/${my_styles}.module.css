@@ -1,0 +1,16 @@
+.tittle {
+   font-style: italic;
+   font-weight: bold;
+   font-family: serif;
+   margin-top: 0;
+ }
+  @media (min-width: 767px) {
+    .tittle{
+    color: 'red';
+  }
+  }
+  @media (maxWidth: 400px) {
+    .tittle{
+    color: 'purple';
+  }
+}

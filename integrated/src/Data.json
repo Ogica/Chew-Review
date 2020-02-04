@@ -1,0 +1,238 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCIAEAACsEk5RrAuD0gHfRNUU_wwmdBb4xn2W6Fb3hG-VUIySskY9vsfFjCZ4kOG79gqZmqG647doRmm-m77eIj5w0pAlMelAtwHNQ3maUoQgUAt6eD333DbN1wV461PmE5pjLKH6RgkHw08Dj9jYtcpt9-z-0Wpr4dYJCUOIgz4FJEuXbBExYY0N1pL-DYX6bAeZH6kY9GCfvT4Qa5uCuLddaiY2hEyaLa47NDP0x02cEpN7-CwFS7GtsN6PFDTB8hHEZgPIhY_0sOiAVK-6mb9zioyqbbmDuDA2qRiB-ZNQ98fxF8Mb1Ex5dWSy6FRc9bzP3kSuTFeFwJqQ5m_f6ofHFO6nRiy--ScBvl7mevZZhjX8SHLEKIPgrH92Y2-4mGSnvaRIQ2R6aBmAog_N-TpNTuJ5iRxoU4hN71IzuqsbuWcjJEufMvl2c2qE",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.15253999999999,
+               "lng" : 14.99812000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1539422302915,
+                  "lng" : 14.9996114302915
+               },
+               "southwest" : {
+                  "lat" : 51.1512442697085,
+                  "lng" : 14.9969134697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "35d96956ac2e3d2bf9124bc4b3e89daca7de3ef2",
+         "name" : "Parkhotel Görlitz from json",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112459355770428631034/photos\"\u003eLothar Beutin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbkNYfRXFo9OTafaU4rkyJ3LJVBrsvoxSoaoLzcwqPgjYFLpb8ccKIpe3JO_1cna5KVIihGdAS1P_FGqI_yRCMUy3pEkV0kmkVfTfAWaG4QR6YkpBBSIzJMuHkdx_kqWDEhDqRAG2e7AQCdSMoXseqQnYGhSuiKbJGb8U4pGA330bTKJTWadCqw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZX26AD3cCEcRIVsLeNl1PW4",
+         "plus_code" : {
+            "compound_code" : "5X3X+26 Герлиц, Немачка",
+            "global_code" : "9F3P5X3X+26"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZX26AD3cCEcRIVsLeNl1PW4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 494,
+         "vicinity" : "Uferstraße 17 f, Görlitz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1579539,
+               "lng" : 14.9913344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1593002802915,
+                  "lng" : 14.9926312302915
+               },
+               "southwest" : {
+                  "lat" : 51.1566023197085,
+                  "lng" : 14.9899332697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "da37a4b4595ae382d4a5c2afa572773b76a0bde3",
+         "name" : "Romantik Hotel Tuchmacher from json",
+         "photos" : [
+            {
+               "height" : 1376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109805415640245580366/photos\"\u003eHeReRo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA02FLrTh7C2UE43M7os7bMx36yJUkTCY1cwxgBw-on_EUIiCb0SlVc6ZsbemOf0mKtaRoIEYZGkLydjrDoLfFvpGp49jbJlhK8-AIGpNmhETxBWG9Mi6PMtKtlnCaeP2XEhDIxclxMkRKL1WxasEdQ6uNGhSL7susqKMQUMFWjUDIW5naLpsrTg",
+               "width" : 4336
+            }
+         ],
+         "place_id" : "ChIJJ7xJmjncCEcRwTHNvscWDP8",
+         "plus_code" : {
+            "compound_code" : "5X5R+5G Герлиц, Немачка",
+            "global_code" : "9F3P5X5R+5G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJ7xJmjncCEcRwTHNvscWDP8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 264,
+         "vicinity" : "Peterstraße 8, Görlitz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.1386808,
+               "lng" : 14.9859801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.14002698029149,
+                  "lng" : 14.9873820302915
+               },
+               "southwest" : {
+                  "lat" : 51.1373290197085,
+                  "lng" : 14.9846840697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1754da73f3e4f03df9a052a76ca23d772696e038",
+         "name" : "Hotel Schellergrund Inh. B. Zock from json",
+         "photos" : [
+            {
+               "height" : 1520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111927723578790699415/photos\"\u003eJan Guhl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATDq87BPsYJg_6aB3qjFoOjMw-TBn-hPtmiN6NPDQIbsgfcFErq3FRH40bXlgS9PMf8CkkYcccqmAibnDDMNnOR1JKeHvzyFy1AFJPkuli_eoKpP4mRxPU-N0_BzrKx-uEhC7Xk_2fSTKCWYoyXReBzhWGhRNjLPzeHh94z1PecdjdSENI65gZg",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJedk-b57eCEcRVpFu2CDDrxs",
+         "plus_code" : {
+            "compound_code" : "4XQP+F9 Герлиц, Немачка",
+            "global_code" : "9F3P4XQP+F9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJedk-b57eCEcRVpFu2CDDrxs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "lodging",
+            "park",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 48,
+         "vicinity" : "Martin-Opitz-Straße 2, Görlitz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.15550090000001,
+               "lng" : 14.9891835
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.15676783029151,
+                  "lng" : 14.99052623029151
+               },
+               "southwest" : {
+                  "lat" : 51.15406986970851,
+                  "lng" : 14.9878282697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5e4323c1e1cfede4225d0eba2140ce056a8c6b5b",
+         "name" : "Schwibbogen / Flying Buttress Hotel from json",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4233,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112386522429263201356/photos\"\u003eHotel Schwibbogen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1Jr4BHmvxsqlWJFuVC0g9hD43kTA06EPkUtdjzDtHbykHDiP3dAH_viXlGvARHia_hH6WD9EdUeI0gu--dudyyx5NVVXB7jC-xqkMQJwnXqlPQ6SXdbepIvzVG52A7KqEhDEqVQlXIf33NBUpMgD7mC1GhRjDDk7ijIPCU5ZE5HWgKx5Tq1mog",
+               "width" : 3735
+            }
+         ],
+         "place_id" : "ChIJWw2xaTrcCEcRJEGKC_Ubb6I",
+         "plus_code" : {
+            "compound_code" : "5X4Q+6M Герлиц, Немачка",
+            "global_code" : "9F3P5X4Q+6M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJWw2xaTrcCEcRJEGKC_Ubb6I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 115,
+         "vicinity" : "Obermarkt 34, Görlitz"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.15513139999999,
+               "lng" : 14.9858824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1564691802915,
+                  "lng" : 14.9872863802915
+               },
+               "southwest" : {
+                  "lat" : 51.1537712197085,
+                  "lng" : 14.9845884197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d850fae6445077e07d4fd878f1ba5ec2d6a8fe8d",
+         "name" : "Mediteranos from json",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101546548835312992969/photos\"\u003eLutz Heilmann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyu62l3PHT98DY1PWeB4Aj7HDmWfdPLVQMC6zLmUIKGzQri3bZwHiQCKle_D0Izhk5shcomPaaeJsGFgGou-0ZoSejSG04bfT5lKkaPf_4pqDygmogEE35AuPI0Wr1ndTEhDCvCZzSpdYZgyvD9Lq9wosGhRVYHDFg05I87-ffy5mDL8LZMJ_Tg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJJYl6hjDcCEcRfHkVOrkxcm8",
+         "plus_code" : {
+            "compound_code" : "5X4P+39 Герлиц, Немачка",
+            "global_code" : "9F3P5X4P+39"
+         },
+         "price_level" : 2,
+         "rating" : 4.699999999999999,
+         "reference" : "ChIJJYl6hjDcCEcRfHkVOrkxcm8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "Obermarkt 16, Görlitz"
+      }
+   ],
+   "status" : "OK"
+}
