@@ -18,7 +18,7 @@ class App extends React.Component {
   }
 
   fetch_data=() => {
-    fetch("https://cors-anywhere.herokuapp.com/https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+ this.state.center.lat +","+this.state.center.lng + "&radius=1500&type=restaurant&key=AIzaSyBxUN_fsfURkoyRkCsqlERPDGxzVAOLRDs")
+    fetch("https://cors-anywhere.herokuapp.com/https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+ this.state.center.lat +","+this.state.center.lng + "&radius=1500&type=restaurant&key=Enter your google API key")
     .then(response => response.json())
     .then(data => {
       this.setState({restaurantData:this.state.restaurantData.concat(data.results)})
